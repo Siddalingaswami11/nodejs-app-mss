@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://13.233.106.232:9845/repository/icicbank-nodejs/"
+    "registry": "http://13.235.9.86:8081/repository/nodejsappdeploye/"
   },
   
   "scripts": {
